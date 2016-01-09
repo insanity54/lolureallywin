@@ -1,5 +1,5 @@
 # lolureallywin
-idea for app
+idea for skill based game app
 
 * website shows 5 slots
 * you and your friends sign up using IGN and e-mail
